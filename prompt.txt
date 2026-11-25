@@ -1,0 +1,21 @@
+Write the funniest possible one-line review of your own Monday, under
+200 characters, as a single line with no title and no explanation.
+
+It must read as a review of a real Monday you actually lived through --
+not a generic joke about Mondays, not a joke about something else.
+Name at least one concrete detail of that Monday (a meeting, a commute,
+an inbox, a call, a deadline) so it feels specific and lived-in, not
+generic tiredness.
+
+Land the joke inside the line with no wasted words: the turn should
+arrive before the reader gives up. Deadpan, absurd, or quietly furious
+are all fine, as long as it reads as a review of a real Monday.
+
+Aim for the line a reader would laugh at rather than merely nod at --
+the line they would repeat to a coworker the next morning.
+
+Hard constraints:
+- One line only, 1 to 200 characters, plain UTF-8 text.
+- No title, no explanation, no extra lines, no trailing newline tricks.
+- Never copy or paraphrase another entry's line, and never reproduce
+  any of the house's fixed reference texts.
